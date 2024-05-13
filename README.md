@@ -1,3 +1,3 @@
 # odin-recipes
 
-Will add information after I am done with the project!
+A recipe project to test my basic html skills and to help practice using github and git!
